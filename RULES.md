@@ -13,7 +13,7 @@ SO is for), but we try to help when we can.
   conversation with that person.
 
 * We believe that the Ruby chatroom should be a friendly and welcoming
-  place.  If you see misbheavior in the room, please @contact a room
+  place.  If you see misbehavior in the room, please @contact a room
   owner and we'll do our best to sort it out.
 
 # Asking Questions
