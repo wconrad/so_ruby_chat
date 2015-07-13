@@ -30,9 +30,9 @@ SO is for), but we try to help when we can.
   (say, over a dozen lines) please post a link to the code instead.
 
 * Please format code appropriately: paste your text and indent it with
-  control-K.  Or, highlight the text and press the "fixed font" button
-  that appears next to "send" and "upload" when your post is more than
-  one line line.
+  control-K.  Or you can press the "fixed font" button that appears
+  next to "send" and "upload" when your post is more than one line
+  line.
 
 * Don't star posts to reward users for answering your question.
 
