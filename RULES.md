@@ -36,5 +36,9 @@ SO is for), but we try to help when we can.
 
 * Don't star posts to reward users for answering your question.
 
+# Unacceptable Topics
+
+* Please do not dicuss any illegal activities here. This includes pirating.
+
 [1]: http://nocodeofconduct.com/ncoc
 [2]: http://chat.stackoverflow.com/rooms/44914
