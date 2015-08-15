@@ -39,5 +39,10 @@ SO is for), but we try to help when we can.
 
 * Don't star posts to reward users for answering your question.
 
+# Unacceptable Topics
+
+* Don't promote illegal activities, including piracy of software or
+  books.
+
 [1]: http://nocodeofconduct.com/ncoc
 [2]: http://chat.stackoverflow.com/rooms/44914
