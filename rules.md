@@ -1,14 +1,13 @@
----
----
+# Rules for [Stack Overflow (SO) Ruby Chat Room][2]
 
 Welcome to the [Stack Overflow (SO) Ruby Chat Room][2].  This is a
 room where we hang out to talk about Ruby and Ruby-on-Rails and other
 things.  Our main purpose isn't to answer Ruby questions (that's what
 SO is for), but we try to help when we can.
 
-# General behavior
+## General behavior
 
-* Be good to each other: [NCoC][1] (warning: some language)
+* Be good to each other, as explained in the [No Code of Conduct (NCoC)][1] (warning: some language)
 
 * Please keep language safe for work
 
@@ -19,7 +18,7 @@ SO is for), but we try to help when we can.
   place.  If you see misbehavior in the room, please @contact a room
   owner and we'll do our best to sort it out.
 
-# Asking Questions
+## Asking Questions
 
 * You don't need to ask if anyone is around.  Just ask your question
   and someone will help if they are able.
@@ -39,10 +38,10 @@ SO is for), but we try to help when we can.
 
 * Don't star posts to reward users for answering your question.
 
-# Unacceptable Topics
+## Unacceptable Topics
 
 * Don't promote illegal activities, including piracy of software or
   books.
 
-[1]: http://nocodeofconduct.com/ncoc
+[1]: https://github.com/domgetter/NCoC/blob/master/README.md
 [2]: http://chat.stackoverflow.com/rooms/44914
