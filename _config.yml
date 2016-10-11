@@ -1,1 +1,15 @@
-baseurl: /so_ruby_chat
+# Site settings
+title: Rules for Ruby Chat
+baseurl: "/so_ruby_chat"
+url: ""
+
+# Build settings
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - params.json
